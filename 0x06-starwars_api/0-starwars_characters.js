@@ -1,8 +1,5 @@
 #!/usr/bin/node
 
-=======
-#!/usr/bin/env node
->>>>>>> Stashed changes
 const request = require('request');
 
 const movieId = process.argv[2];
