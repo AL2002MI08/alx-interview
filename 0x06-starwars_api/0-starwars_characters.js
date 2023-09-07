@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 #!/usr/bin/node
 
 =======
